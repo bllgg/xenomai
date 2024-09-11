@@ -1,6 +1,6 @@
 /*.patch
 build*/
-snapshots/
+#snapshots/
 *.swp
 *.orig
 *.rej
